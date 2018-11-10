@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\잡것들">
+      <UniqueIdentifier>{5ed7ceba-a672-4a89-95d4-40f0abbfc26c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\반복제어문2">
+      <UniqueIdentifier>{850e74e6-02ae-4d8b-9e4f-d48aa24efe20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\반복제어문3">
+      <UniqueIdentifier>{09dec947-d94d-43ac-8eb6-f6d79ebced96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\반복제어문">
+      <UniqueIdentifier>{65d2b46f-ac11-4047-84f0-58b00d36f2b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\배열2">
+      <UniqueIdentifier>{14ef9ae1-0c41-4a9f-9c6c-d2692b8dedbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\배열">
+      <UniqueIdentifier>{5c6906e4-7fea-427e-9137-658d414f0e24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\선택제어문">
+      <UniqueIdentifier>{d90a7881-9df3-4a38-a1de-5a7bc31c8578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\함수">
+      <UniqueIdentifier>{164486e8-6a31-4b9b-8693-68fc760a7c90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연산자">
+      <UniqueIdentifier>{cc7d83fb-f689-4874-b387-922c6984a544}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="001.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="006.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="007.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="008.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="009.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="010.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="011.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="012.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="013.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="014.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="015.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="016.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="017.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="018.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="019.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="020.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="021.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="022.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="002.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="003.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="004.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="005.c">
+      <Filter>소스 파일\잡것들</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단1.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단2.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단3.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단4.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단5.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단6.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단7.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2진단8.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가1.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가2.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가3.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가4.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가5.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가6.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가7.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가8.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가9.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2평가A.c">
+      <Filter>소스 파일\반복제어문2</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단1.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단2.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단3.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단4.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단5.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단6.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3진단7.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3평가1.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3평가2.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3평가3.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3평가4.c">
+      <Filter>소스 파일\반복제어문3</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단1.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단2.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단3.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단4.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단5.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문진단6.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문평가1.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문평가2.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문평가3.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문평가4.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문평가5.c">
+      <Filter>소스 파일\반복제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단1.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단2.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단3.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단4.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단5.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단6.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2진단7.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가1.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가2.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가3.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가4.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가5.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가6.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가7.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가8.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가9.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열2평가A.c">
+      <Filter>소스 파일\배열2</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단1.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단2.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단3.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단4.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단5.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단6.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단7.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단8.C">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열진단9.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가1.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가2.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가3.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가4.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가5.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가6.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가7.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가8.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가9.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열평가A.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단1.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단2.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단3.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단4.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단5.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단6.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단7.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단8.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문진단9.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문평가1.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문평가2.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문평가3.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문평가4.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문평가5.c">
+      <Filter>소스 파일\선택제어문</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단1.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단2.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단3.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자평가1.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자평가2.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자평가3.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자평가4.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자평가5.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단4.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단5.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단6.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단7.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수진단8.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수평가1.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수평가2.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수평가3.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수평가4.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수평가5.c">
+      <Filter>소스 파일\함수</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2진단8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수2평가6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
